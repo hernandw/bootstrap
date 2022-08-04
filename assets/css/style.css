@@ -6,7 +6,7 @@
 
 
 
-.box, .box2 {
+.box, .box2, .box3 {
     background-color: rgb(57, 152, 74);
     border: 1px solid white;
     height: 100px;
@@ -14,4 +14,9 @@
 
 .box2 {
     background-color: rgb(234, 188, 70);
+}
+
+.box3 {
+    background-color: rgb(178, 10, 10);
+    color: white;
 }
