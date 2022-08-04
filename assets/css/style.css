@@ -4,19 +4,14 @@
     box-sizing: border-box;
 }
 
-.container {
-    margin: 20px;
-    
-    width: 100%;
-    margin: 0 auto;
-}
 
-.container__table {
-    width: 100%;
-}
 
-.box {
+.box, .box2 {
     background-color: rgb(57, 152, 74);
     border: 1px solid white;
     height: 100px;
+}
+
+.box2 {
+    background-color: rgb(234, 188, 70);
 }
